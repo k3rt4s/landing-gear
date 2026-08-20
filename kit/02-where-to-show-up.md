@@ -96,8 +96,8 @@ aggregator to your list.
 
 The highest-signal alert you can set is not on an aggregator at all, it is on the careers
 page of a specific employer you have already decided you would work for. Most employer
-career sites offer some form of notification when new roles are posted, sometimes called
-`job alerts` or a similar field on the page. Because this comes straight from the source, it
+career sites offer some form of notification when new roles are posted, usually labelled job
+alerts or something close to it. Because this comes straight from the source, it
 skips both duplication and staleness. Check that specific employer's own page for how its
 alert feature currently works, since the exact mechanism varies by employer and by the
 system that page runs on, and it will change over time.
@@ -161,7 +161,7 @@ worth checking who can see a given database before you upload anything to it.
 ### Treat a quiet-search setting as a reduction in risk, never as a guarantee
 
 Some platforms offer a setting that limits who can see that you are actively looking,
-sometimes phrased as something like `open to work` visibility controls. This is a real,
+usually phrased as some form of open to work visibility control. This is a real,
 documented mechanism on the platforms that offer it, and it is worth turning on if you are
 searching quietly. It is not a guarantee. Read that platform's own current documentation for
 what the setting actually restricts, and assume it reduces risk rather than eliminates it.
@@ -182,8 +182,8 @@ sake.
 Too many alerts stop being signal and start being noise you learn to ignore, which defeats
 the purpose of setting them. A small number of well targeted alerts, tied to employers and
 sectors you actually care about, will serve you better than a long list you stop reading.
-The next chapter that covers running the actual search day to day will come back to how to
-work through alerts without letting them drift into a second job of their own.
+The chapter on finding roles comes back to how to work through alerts day to day without
+letting them drift into a second job of their own.
 
 ### Set this up in one sitting only if you plan to wait before judging it
 

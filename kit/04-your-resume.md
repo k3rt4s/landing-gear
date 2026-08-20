@@ -37,14 +37,16 @@ risk you do not need to carry. Keep it on personal hardware you control.
 
 ### Separate what you were assigned from what changed because you were there
 
-A responsibility describes what you were assigned to do. An achievement describes what
-changed because you were the one doing it. "Responsible for customer onboarding" is a
-responsibility. "Rebuilt the intake process so new customers stopped waiting on manual
-handoffs" is an achievement. Both sentences can describe the same job, but only one of them tells a
-reader anything about what you actually produced. Every line in the master document
-should eventually become an achievement, even if the first draft of it starts as a
-responsibility, because a responsibility is just the raw fact before you have asked what
-came of it.
+The story chapter introduced this conversion so you could test your through line against
+it. Here you do it properly, on every line of the master document, which is slower work
+and worth the time. A responsibility describes what you were assigned to do. An achievement
+describes what changed because you were the one doing it. "Responsible for customer
+onboarding" is a responsibility. "Rebuilt the intake process so new customers stopped
+waiting on manual handoffs" is an achievement. Both sentences can describe the same job,
+but only one of them tells a reader anything about what you actually produced. Every line
+in the master document should eventually become an achievement, even if the first draft of
+it starts as a responsibility, because a responsibility is just the raw fact before you
+have asked what came of it.
 
 ### Ask what would have been different without you
 

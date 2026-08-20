@@ -65,8 +65,8 @@ them. Spend the first week on the material instead of on the applications.
 Before you write anything or contact anyone, set up a place to record what you apply
 to, who you talk to, and what you said you would do next. Without this, a search that
 runs more than a few weeks turns into a blur of half remembered conversations and
-listings you cannot find again. A later chapter in this manual covers the tracker
-itself in detail. For this week, the only requirement is that it exists before your
+listings you cannot find again. The chapter on tracking your search covers the
+tracker itself in detail. For this week, the only requirement is that it exists before your
 first application goes out.
 
 ### Write one long master resume before you write a single tailored one
@@ -185,7 +185,7 @@ you had. Do not judge the week by how many replies came back, because that numbe
 mostly decided by other people on their own schedule and tells you very little about
 whether you did your part well.
 
-### A later chapter holds the tracker itself, this one only sets up why you need it
+### The tracking chapter holds the tracker itself, this one only sets up why you need it
 
 This chapter tells you to start tracking before you apply to anything. The chapter
 devoted to the tracker covers what to record and how to review it. For now, the only

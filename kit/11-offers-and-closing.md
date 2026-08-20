@@ -166,9 +166,11 @@ of the argument.
 
 ### Warn your references before you hand out their details, and expect a check
 
-Tell each reference the search has reached this stage before you give an employer their contact
-information, so the call does not surprise them. Expect a background or employment verification
-step as a normal part of most hiring processes, not a sign that anything is wrong.
+The applying chapter told you to hand out references only when asked and to warn them first.
+This is the stage where that gets tested. Tell each reference the search has reached this point
+before you give an employer their contact information, so the call does not surprise them.
+Expect a background or employment verification step as a normal part of most hiring processes,
+not a sign that anything is wrong.
 
 ### Restrictive contract terms vary by jurisdiction, get real legal advice
 

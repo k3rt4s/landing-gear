@@ -164,7 +164,8 @@ Record a lead as soon as you decide to pursue it, not after you have tailored ma
 record the employer's own application link rather than the aggregator's link that first showed it
 to you. Job titles get edited, and a reposted role with a new title looks like a brand new lead if
 title is what you match on, so match instead on something stable, the employer's own requisition
-number or job identifier where one exists. The tracker chapter covers the fields in full, but the
+number or job identifier where one exists. The chapter on tracking your search covers the fields
+in full, but the
 habit belongs here, at the moment the decision is made.
 
 ### Mark a role removed rather than deleting it, and write down what you did not find

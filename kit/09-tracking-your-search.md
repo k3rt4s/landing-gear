@@ -101,11 +101,12 @@ judgment and context live, separate from the structured fields around it.
 
 ### Match a role on something stable, not the title string
 
-Titles get edited, and a role that is reposted with a slightly different title can look like a
-brand new opportunity when it is the same job you already applied to. Match roles on the
-employer's requisition id where one exists, or on the employer and the substance of the role
-together, rather than on the title text alone, or you will end up with duplicate rows for a
-single process.
+The chapter on finding roles told you to log a lead this way at the moment you decide to pursue
+it. Here is why the rule exists. Titles get edited, and a role that is reposted with a slightly
+different title can look like a brand new opportunity when it is the same job you already applied
+to. Match roles on the employer's requisition id where one exists, or on the employer and the
+substance of the role together, rather than on the title text alone, or you will end up with
+duplicate rows for a single process.
 
 ### Keep the fields you write separate from anything imported
 
@@ -166,7 +167,7 @@ tracker is most valuable, because a search that feels like nothing is happening 
 different once you can actually see everything you did during that stretch. Update it whether or
 not the week went well, especially when it did not.
 
-## Pace note for your situation
+## Fitting this into the time you have
 
 ### With a full day available, update the tracker as part of a short daily admin block
 

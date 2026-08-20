@@ -150,9 +150,10 @@ reads as an attempt to be found by something other than a person.
 
 ### Keep job titles conventional and save the creative title for the body
 
-If your actual title was unusual or invented internally, list a conventional,
-searchable title such as software engineer or operations manager as the entry
-heading, and put the original internal title inside the entry body if you want it
+This is the same rule the profile chapter applied to your profile, and it applies here
+for the same reason. If your actual title was unusual or invented internally, list a
+conventional, searchable title such as software engineer or operations manager as the
+entry heading, and put the original internal title inside the entry body if you want it
 recorded at all. A recruiter searching by a common title is more likely to find the
 conventional version.
 

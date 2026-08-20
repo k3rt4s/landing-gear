@@ -81,37 +81,37 @@ their desk. This costs you one short message and nothing else.
 
 ## What to ask a recruiter
 
-### Is the role open and approved right now
+### Ask whether the role is open and approved right now
 
 Ask whether the role is open and approved, not pending budget or reorganization. A role that is
 still waiting on approval can sit indefinitely or disappear, and knowing which kind you are
 looking at changes how much hope to invest in it right now.
 
-### Is this a new role or a backfill, and why did the last person leave
+### Ask whether it is a new role or a backfill, and why the last person left
 
 Ask whether the position is newly created or a backfill for someone who left, and why that
 person left if it is a backfill. A pattern of short tenures in the same seat, or a vague answer
 about why it is open, tells you something about the role or the team worth weighing.
 
-### Who is the hiring manager
+### Ask who the hiring manager is
 
 Ask who the hiring manager is. Knowing the name, and ideally the title, tells you who actually
 owns the decision, and it lets you do a little of your own homework on the team before you
 speak with anyone.
 
-### What are the stages of the process and how many there will be
+### Ask what the stages are and how many rounds to expect
 
 Ask what the stages of the process look like and how many rounds you should expect. A vague
 answer here often means the employer has not finalized the process either, which tells you
 something about how far along the search really is.
 
-### What is the compensation range
+### Ask what the compensation range is
 
 Ask what the compensation range is for the role. A recruiter who gives you a clear range early
 is saving both of you time. A recruiter who deflects the question repeatedly is worth noting,
 though deflection alone is not automatically a red flag this early.
 
-### What does the timeline look like
+### Ask what the timeline looks like from here to an offer
 
 Ask what the timeline looks like, from here to an offer if things go well. This does not need
 to be precise, but a recruiter with no sense of timeline at all may be working a role that is
@@ -172,7 +172,8 @@ can return it later from somewhere private rather than taking it badly at your d
 
 Keep your own record of which recruiter submitted you to which employer, and when. This is the
 only real defense against the duplicate submission problem described earlier, since you cannot
-avoid a conflict you do not know exists. A later chapter covers the tracker itself in detail.
+avoid a conflict you do not know exists. The chapter on tracking your search covers the tracker
+itself in detail.
 
 ### Be reachable, and recognize when a contact is not what it claims
 
@@ -181,5 +182,5 @@ personal email address you check regularly, and a realistic answer ready when so
 when you can talk. Separately, watch for recruiter contact that is not what it claims to be, a
 supposed corporate recruiter writing from a free consumer email address, refusal to name the
 employer even after you ask, a request for identity documents or banking details up front, or
-pressure to decide immediately. The earlier chapter on verifying a listing covers this pattern
+pressure to decide immediately. The chapter on finding roles covers this pattern
 in full, and the same caution applies here.

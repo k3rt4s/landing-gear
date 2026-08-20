@@ -30,9 +30,9 @@ into a search box, not the title your last company invented for you and not a ti
 sound of. The systems involved here are recruiter search and ranking tools, not automatic rejection
 gates, so there is no keyword score to beat and no machine that rejects a resume before a person
 sees it. What they do is let a recruiter search on a title and some skills and get a ranked list
-back, and a later chapter covers that in full. If your headline title
-does not match the term they typed, you do not appear high in that list, regardless of how well
-qualified you are.
+back, and the chapter on keywords and applicant tracking systems covers that in full. If your
+headline title does not match the term they typed, you do not appear high in that list, regardless
+of how well qualified you are.
 
 ### Put your creative title in the body of the entry, not the headline
 
@@ -85,7 +85,9 @@ A responsibility says what you were assigned. An achievement says what changed b
 there. Go through your history and for each responsibility, ask what was different afterward that
 would not have been different without you, and write that instead. This is ordinary resume
 advice, not a discovery, but it is the single most common gap between a flat resume and one that
-argues something, and it is worth doing slowly rather than skimming past it.
+argues something, and it is worth doing slowly rather than skimming past it. You need enough of
+this now to test whether the through line holds. The resume chapter does the same conversion
+properly, line by line across your whole history, so do not try to finish it here.
 
 ### Never claim what you cannot support
 
@@ -103,7 +105,9 @@ If you do not have a figure for an achievement, do not invent one to make it sou
 than it is. Describe the change in kind instead: what state the thing was in before, what state it
 was in after, and what kind of difference that made to the people who depended on it. A true
 description without a number is stronger than a fabricated number, because the true description
-survives a follow up question and the fabricated one does not.
+survives a follow up question and the fabricated one does not. This rule comes back in the resume
+chapter with worked examples, and again in the interview chapter, because it is the one people
+break under pressure.
 
 ## Test the through line until it holds
 

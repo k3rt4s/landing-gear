@@ -16,9 +16,9 @@ you have not built a tailored version yet, that step comes before this one, not 
 Where an employer runs its own application system, whether that is a careers page, an
 applicant tracking system, or a simple email address it names, use that system rather than
 only an aggregator's copy of the listing. That is where the recruiter actually works from,
-and a separate chapter covers how that system works in full. It is a search and ranking tool
-for the recruiter, not a gate that auto-rejects you, and nothing here should be read as
-implying otherwise.
+and the chapter on keywords and applicant tracking systems covers how it works in full. It
+is a search and ranking tool for the recruiter, not a gate that auto-rejects you, and
+nothing here should be read as implying otherwise.
 
 ### Weigh one-click apply on aggregator sites as a real tradeoff
 
@@ -51,7 +51,9 @@ single figure, and be ready to explain how you arrived at it if it comes up late
 Many systems parse your uploaded resume into fields the recruiter will read directly, and
 that parse is not always accurate. Look at what the form shows you before you submit, and fix
 anything the parser got wrong, a mangled date, a title split across two fields, a skill it
-missed, so the version a person reads matches the version you meant to send.
+missed, so the version a person reads matches the version you meant to send. The chapter on
+applicant tracking systems explains why that parsed record matters. This is the moment you
+act on it, and it is the only check in this chapter you cannot do in advance.
 
 ## When a cover letter earns its keep, and when it doesn't
 
