@@ -25,14 +25,15 @@ currently going wrong.
    is actually for, and which ones you can safely skip.
 4. [Your profile](kit/03-your-profile.md), how a professional profile gets surfaced in a recruiter
    search and what to check in yours line by line.
-5. Your resume, building the long-form master document you cut every application down from, and
-   writing achievements rather than responsibilities.
-6. Keywords and applicant tracking systems, what those systems really do, how to read a posting for
-   the language it is scored against, and how to align your materials without lying.
-7. Finding roles, running a search that does not drift, and checking whether a listing is real
-   before you spend an hour on it.
-8. Applying, what to send, when a cover letter earns its keep, and how to reach a human alongside
-   the formal application.
+5. [Your resume](kit/04-your-resume.md), building the long-form master document you cut every
+   application down from, and writing achievements rather than responsibilities.
+6. [Keywords and applicant tracking systems](kit/05-keywords-and-ats.md), what those systems really
+   do, how to read a posting for the language it is searched against, and how to align your
+   materials without lying.
+7. [Finding roles](kit/06-finding-roles.md), running a search that does not drift, and checking
+   whether a listing is real before you spend an hour on it.
+8. [Applying](kit/07-applying.md), what to send, when a cover letter earns its keep, and how to
+   reach a human alongside the formal application.
 9. Recruiters, the difference between an agency recruiter and an internal one, how to open a
    conversation that gets answered, and how to follow up without becoming a problem.
 10. Tracking your search, what to record, why tracking your behavior beats tracking your outcomes,
