@@ -182,5 +182,7 @@ personal email address you check regularly, and a realistic answer ready when so
 when you can talk. Separately, watch for recruiter contact that is not what it claims to be, a
 supposed corporate recruiter writing from a free consumer email address, refusal to name the
 employer even after you ask, a request for identity documents or banking details up front, or
-pressure to decide immediately. The chapter on finding roles covers this pattern
-in full, and the same caution applies here.
+pressure to decide immediately. Do not hand over identity documents or banking details to
+anyone before you have a written offer from an employer you have confirmed independently,
+no matter how ordinary the request is made to sound. The chapter on finding roles covers
+this pattern in full, and the same caution applies here.

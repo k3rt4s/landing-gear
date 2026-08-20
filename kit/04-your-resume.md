@@ -166,9 +166,9 @@ know precisely what they are holding, not a guess at which version it might have
 
 Save the resume in the file format you have been asked for, or a widely readable one if
 none was specified, and give the file a name that identifies it on its own once it has
-been downloaded and separated from any email or message that explained what it was. A
-separate chapter in this manual covers applicant tracking systems in full, including what
-they actually do with your file; the short version here is that they are search and
+been downloaded and separated from any email or message that explained what it was. The
+chapter on keywords and applicant tracking systems covers those systems in full, including
+what they actually do with your file; the short version here is that they are search and
 ranking tools a recruiter uses, not an automatic gate, so do not format this resume
 around a guess at satisfying one.
 

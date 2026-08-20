@@ -52,8 +52,9 @@ Many systems parse your uploaded resume into fields the recruiter will read dire
 that parse is not always accurate. Look at what the form shows you before you submit, and fix
 anything the parser got wrong, a mangled date, a title split across two fields, a skill it
 missed, so the version a person reads matches the version you meant to send. The chapter on
-applicant tracking systems explains why that parsed record matters. This is the moment you
-act on it, and it is the only check in this chapter you cannot do in advance.
+keywords and applicant tracking systems explains why that parsed record matters. This is
+the moment you act on it, and it is the only check in this chapter you cannot do in
+advance.
 
 ## When a cover letter earns its keep, and when it doesn't
 
