@@ -44,8 +44,6 @@ currently going wrong.
 12. [Offers and closing](kit/11-offers-and-closing.md), evaluating what you are actually being
     offered, the parts that are negotiable, and how to end a search cleanly.
 
-All twelve chapters are written and live in the `kit/` directory.
-
 ## What this is not
 
 It is not a service, and nothing here is for sale. It is not career coaching, and it is not legal,
@@ -63,6 +61,10 @@ none of them are repeated here.
 
 There is also no repackaged paid framework in it. If a piece of advice is just the ordinary advice
 that most people would give, the text says so rather than dressing it up as a system.
+
+## Changes
+
+[CHANGELOG.md](CHANGELOG.md) records what has changed in the manual and when.
 
 ## Contributing
 
