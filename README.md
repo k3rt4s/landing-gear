@@ -34,18 +34,17 @@ currently going wrong.
    whether a listing is real before you spend an hour on it.
 8. [Applying](kit/07-applying.md), what to send, when a cover letter earns its keep, and how to
    reach a human alongside the formal application.
-9. Recruiters, the difference between an agency recruiter and an internal one, how to open a
-   conversation that gets answered, and how to follow up without becoming a problem.
-10. Tracking your search, what to record, why tracking your behavior beats tracking your outcomes,
-    and how to keep a tracker honest over months.
-11. Interviewing, the preparation that transfers across every interview, building real examples,
-    and what to do in the days after.
-12. Offers and closing, evaluating what you are actually being offered, the parts that are
-    negotiable, and how to end a search cleanly.
+9. [Recruiters](kit/08-recruiters.md), the difference between an agency recruiter and an internal
+   one, how to open a conversation that gets answered, and how to follow up without becoming a
+   problem.
+10. [Tracking your search](kit/09-tracking-your-search.md), what to record, why tracking your
+    behavior beats tracking your outcomes, and how to keep a tracker honest over months.
+11. [Interviewing](kit/10-interviewing.md), the preparation that transfers across every interview,
+    building real examples, and what to do in the days after.
+12. [Offers and closing](kit/11-offers-and-closing.md), evaluating what you are actually being
+    offered, the parts that are negotiable, and how to end a search cleanly.
 
-The chapters are being written now and land in the `kit/` directory as they are finished. A
-numbered entry above is a link once its chapter exists and plain text until then, so the list
-doubles as the plan and the progress.
+All twelve chapters are written and live in the `kit/` directory.
 
 ## What this is not
 
