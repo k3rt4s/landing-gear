@@ -17,13 +17,14 @@ no signup, no tool to install, nothing to buy, and no email address to hand over
 Work these in order the first time through. After that, jump to whichever one matches the thing
 currently going wrong.
 
-1. Start here, choosing your situation, setting a schedule you can hold, and what to do in week one.
-2. Your story, deciding which roles you are actually going for and what through line connects the
-   work you have done to the work you want.
-3. Where to show up, which sites are worth a profile, what each one is actually for, and which ones
-   you can safely skip.
-4. Your profile, how a professional profile gets surfaced in a recruiter search and what to check
-   in yours line by line.
+1. [Start here](kit/00-start-here.md), choosing your situation, setting a schedule you can hold,
+   and what to do in week one.
+2. [Your story](kit/01-your-story.md), deciding which roles you are actually going for and what
+   through line connects the work you have done to the work you want.
+3. [Where to show up](kit/02-where-to-show-up.md), which sites are worth a profile, what each one
+   is actually for, and which ones you can safely skip.
+4. [Your profile](kit/03-your-profile.md), how a professional profile gets surfaced in a recruiter
+   search and what to check in yours line by line.
 5. Your resume, building the long-form master document you cut every application down from, and
    writing achievements rather than responsibilities.
 6. Keywords and applicant tracking systems, what those systems really do, how to read a posting for
@@ -41,9 +42,9 @@ currently going wrong.
 12. Offers and closing, evaluating what you are actually being offered, the parts that are
     negotiable, and how to end a search cleanly.
 
-The chapters are being written now and land in the `kit/` directory as they are finished. This
-list is the plan, and it is here first on purpose so you can see the whole shape before any of it
-exists.
+The chapters are being written now and land in the `kit/` directory as they are finished. A
+numbered entry above is a link once its chapter exists and plain text until then, so the list
+doubles as the plan and the progress.
 
 ## What this is not
 
