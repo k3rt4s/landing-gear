@@ -1,0 +1,4 @@
+# Nothing generated belongs in this repo. Data, notes, and drafts live outside it.
+*.local.md
+.DS_Store
+Thumbs.db
