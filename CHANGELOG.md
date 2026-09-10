@@ -3,6 +3,26 @@
 A record of what changed in this manual and why, newest first. This repository has no
 releases and no version numbers; entries are dated instead.
 
+## 2026-09-09
+
+### Added
+
+`kit/00-start-here.md`: a subsection on the guilt an employed reader feels searching quietly on
+their own time, naming the obligation as owed to yourself and whoever depends on you, not to your
+employer's convenience.
+
+`kit/04-your-resume.md`: three subsections under "Achievements, not responsibilities" and "Pacing
+the work": naming the category instead of the specific system or client for cleared or NDA-bound
+work, using "familiar with" rather than implying hands-on experience for a certification not yet
+used on the job, and updating the master document right after a win rather than during a low
+point in the search.
+
+### Changed
+
+`FUTURE_FEATURES.md` restructured to show what shipped from the 2026-08-21 backlog ingest, what
+was dropped as already covered, and what was held back as a scope or style-policy call for the
+developer.
+
 ## 2026-08-20
 
 ### Added
