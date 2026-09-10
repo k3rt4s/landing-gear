@@ -22,6 +22,24 @@ done, plus whatever sliver of privacy you can find for a phone screen. The manua
 written to work inside that window as much as it works inside a full open day. Where
 the two paths differ, this chapter says so directly.
 
+### Your obligation is to the people who depend on you, not to your employer's convenience
+
+While you are still employed, it is easy to feel like you owe your employer an apology for
+looking elsewhere, as if a quiet search is something to feel guilty about. Most people who have
+been through this would tell you that feeling is misplaced. What you actually owe is to yourself
+and to whoever depends on your income and your stability, and that obligation does not disappear
+because it is inconvenient for your employer to hear you might leave. An employer that decided
+tomorrow to eliminate your role or hand it to someone else would not spend the evening weighing
+what it owed you first, and that is simply how the arrangement works on both sides, not a reason
+to carry guilt for looking after your own future.
+
+Doing your job well and searching quietly are not in tension. You can keep meeting every
+commitment you actually have during your working hours and still use your own evenings, your own
+weekends, and whatever sliver of personal time you can find to work on what comes next. None of
+that takes anything away from the work you are paid to do, and there is no debt you are failing
+to pay by keeping your options open. Let that guilt go. You need the room it is taking up for the
+search itself.
+
 ### The steps are identical for both readers, only pace changes
 
 Every step in this manual applies to both of you. Set up a tracker, write a master
