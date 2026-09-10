@@ -77,6 +77,30 @@ spreadsheet that had to be rebuilt by hand every week" followed by "the process 
 without manual rebuilding" is a real achievement with no number in it. That is a stronger
 and more honest line than a magnitude you made up to sound more precise than it is.
 
+### Name the category, not the specific system, when the work is restricted
+
+Some of the work you are proudest of may sit behind a clearance or an NDA that keeps you
+from naming the specific system, program, or client. You can still describe it. Name the
+category of technology or client instead of the specific one, worked with radar systems
+for defense clients, supported infrastructure for financial-sector clients, and build the
+achievement around what changed at that level of description. Say plainly, either on the
+resume itself or in the outreach that follows it, that a more specific account is
+available once it can be given, after a clearance transfers, after an NDA lapses, or in an
+interview under whatever discretion the situation allows. Stated this way, the vagueness
+reads as a real constraint you are handling honestly, not as an evasion or as filler
+standing in for a thinner achievement than it looks like.
+
+### Say "familiar with," not "did," for a certification you haven't used on the job yet
+
+A certification you hold but have not yet applied in a real role still belongs on the
+master document and often on the resume you send, but the wording has to match what is
+actually true. Use plain, unhedged language tied to the certification's actual subject
+matter, familiar with, knowledge of, rather than language that implies you have already
+produced work with it. This is honest framing, not a weaker version of the claim. It
+still puts the credential in front of anyone or anything searching a resume for that
+keyword, and it does not leave you having to walk back an implied claim of hands-on
+experience the first time an interviewer asks what you built with it.
+
 ## The sections a resume needs, in order
 
 ### Open with contact details, then a short summary
@@ -180,6 +204,19 @@ the awkward phrase, the repeated word, the sentence that no longer makes sense a
 three rounds of editing.
 
 ## Pacing the work
+
+### Update the master right after a win, not in the middle of a slump
+
+The best time to add to the master document is right after something good happens, a
+strong performance review, a project that shipped, a win worth recording while the
+detail is still fresh in your memory and your own read of it is still level. This is
+ordinary pacing advice, not a rule anyone has proven, but it holds up on reflection. A
+job search has low points built into it, stretches of silence, a string of rejections, a
+week where nothing moves, and those are exactly the moments frustration or self-doubt are
+most likely to creep into how you describe your own work, either flattening a real
+achievement out of discouragement or padding a thin one to compensate. Catch the good
+moment while it is still good, write it down then, and the master document will read
+better for it later.
 
 ### Build the master in one sitting, then rewrite achievements later, if you have the day
 
