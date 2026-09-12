@@ -102,6 +102,17 @@ resume already says, keep the whole thing to one page, and hold it to the same h
 as every other document in your search, never claim what you cannot support if asked about it
 directly. A cover letter is the document people most often stretch, so be careful here.
 
+### Mirror the posting's own language back at it, in your voice
+
+Before you draft the letter, reread the job posting itself and note the words it uses
+for the role's core responsibilities and the qualities it says it wants. Write your
+paragraph using those same terms where they honestly apply to you, in your own voice,
+leading with what you would bring rather than what you are hoping to get out of the
+role. A letter that echoes the posting's own language back to the reader signals that
+you read the actual posting and are answering it, not sending the same paragraph to
+every opening. This only works when the terms genuinely apply to you, borrowing
+language you cannot back up is the same dishonesty problem as an inflated resume line.
+
 ## Reaching a human alongside the application
 
 ### Send it after the formal application, not instead of it
@@ -120,6 +131,16 @@ reason you are a fit for it. Keep it short enough to read comfortably on a phone
 A referral from someone already inside the company is the strongest version of this kind of
 outreach. Asking for one is a favor with a real cost to the person you ask, so reserve it for
 people who genuinely know your work, not a contact you are hoping will vouch for you cold.
+
+### Don't decide the answer is no before you ask
+
+The easiest way to lose a reply you would have gotten is deciding on someone else's behalf
+that they are too busy, too senior, or too disconnected from you to bother, and never
+sending the message at all. That decision is not yours to make. The person on the other end
+can say no, can say nothing, or can say yes, and you cannot know which before you ask. Send
+the short, specific message described above and let them answer for themselves. A message
+that goes unanswered costs you nothing you did not already have, a message you talked
+yourself out of sending costs you the chance entirely.
 
 ## Follow-up, volume, and pace
 

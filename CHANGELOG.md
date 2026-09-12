@@ -3,6 +3,28 @@
 A record of what changed in this manual and why, newest first. This repository has no
 releases and no version numbers; entries are dated instead.
 
+## 2026-09-10
+
+### Added
+
+Resolved the five items held back from the 2026-08-21 backlog ingest, per the developer's
+choice of home for each:
+
+`kit/00-start-here.md`: a subsection on giving the daily hard stop a physical signal when
+working from home removes the natural boundary a commute would otherwise provide.
+
+`kit/04-your-resume.md`: a subsection on opening each master-document line with a plain
+past-tense verb tied to the actual role, tenure, and industry, rather than a generic duty.
+Builds only the underlying advice from the held-back item, not the numbered-chain structure a
+paid talk presented it as.
+
+`kit/07-applying.md`: a subsection on mirroring a job posting's own language back at it in the
+cover letter, and a subsection on not deciding for someone else that they won't respond before
+sending the outreach message.
+
+`FUTURE_FEATURES.md`: recorded the developer's decision to drop the BSides-organizer outreach
+pattern as security-industry-specific in a general-audience manual.
+
 ## 2026-09-09
 
 ### Added

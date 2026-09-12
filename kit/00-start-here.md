@@ -124,6 +124,17 @@ hour, and that is exhausting in a way that makes the whole effort harder to sust
 not easier. The hard stop is not a suggestion for days when things are going badly. It
 is the rule, every day, especially the days when things are going badly.
 
+### Give the hard stop a physical signal if you work from home
+
+If you work from home, there is no commute to mark the line between paid work and
+everything else, including this search, and that missing boundary makes the hard stop
+harder to hold than it sounds. Build a short, repeatable action that marks the switch
+instead, closing the laptop and stepping outside for a few minutes, changing out of work
+clothes, anything consistent enough that your own body starts to recognize it as the end
+of the day. The ritual itself does not need to be elaborate. What matters is that it
+happens the same way every day, so the hard stop has something physical attached to it
+instead of asking willpower alone to notice the clock.
+
 ### A bad week where you did nothing does not undo the plan
 
 At some point you will have a week where you do not follow the schedule at all,

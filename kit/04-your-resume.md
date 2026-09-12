@@ -58,6 +58,18 @@ resume at all. If the answer is that a process would have stayed broken, a deadl
 have slipped, or a team would have kept doing something the slow way, that answer is the
 sentence you write down.
 
+### Start each line with a specific action tied to your actual role and tenure
+
+When you draft a line for the master document, open it with a plain past-tense verb
+describing exactly what you did, and tie it to the actual role, the length of time you
+held it, and the industry it happened in, rather than a generic duty a dozen other
+people with that same title could also claim. "Managed a team" could describe almost
+anyone with that title for any length of time in any industry. "Managed a six-person
+support team for two years at a mid-size healthcare vendor" narrows the same fact down
+to something a reader can picture and compare against their own opening. The specificity
+is not decoration, it is what turns a duty into evidence that you, not just the title,
+produced the result.
+
 ### Never claim what you cannot support in an interview
 
 Whatever you write, you have to be able to talk about it in more depth than you wrote it,
