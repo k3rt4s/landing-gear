@@ -15,6 +15,23 @@ digest since 2026-08-23 and never previously carried to the backlog. The source'
 the check around how long a reader spends on a resume was dropped, since STYLE.md bars that
 figure outright; only the three checks themselves were built.
 
+`kit/04-your-resume.md`: a second subsection under "Achievements, not responsibilities" on
+writing a real number together with what it moved from and the work that moved it, so a reader
+can place the figure and so the claim still stands up when an interviewer asks how it was
+measured. Sits directly above the existing subsection on describing a change in kind when no
+number exists, which had no counterpart for the case where one does. Built as ordinary advice
+with no ordered template and no attribution to any named formula, per the developer's decision
+on how to clear STYLE.md's bar against restating a named methodology.
+
+### Changed
+
+`FUTURE_FEATURES.md`: stripped to what is actually open. The eight landed pointers and the one
+line already confirmed shipped were removed, since this file duplicated history that belongs in
+this changelog and read as a queue when nothing in it was queued. What remains is an empty
+candidates section and a "Decided against, do not propose again" record, which exists because
+both closed items came out of ingested source material that a later mining pass would otherwise
+surface again.
+
 ## 2026-09-10
 
 ### Added
