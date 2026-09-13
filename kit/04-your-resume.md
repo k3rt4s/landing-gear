@@ -80,6 +80,19 @@ embellishment that falls apart under one follow-up question costs you more than 
 gap ever would. A visible gap in your history reads as ordinary. A claim you cannot back
 up in the room reads as dishonest, and it tends to color everything else you said.
 
+### Say what a number was measured against when you have one
+
+A figure standing on its own is not evidence, it is a quantity a reader has no way to place.
+"Cut processing time by a third" leaves out everything that would let someone judge it: how
+long the thing took before, over what stretch of time the change happened, and what you
+actually did to cause it. Write the number together with what it moved from and the work you
+did to move it, so a reader who has never seen the systems you worked on can tell whether this
+was a large result or a small one. Doing it this way also protects you in the room, because a
+claim that carries its own baseline is the version you can still defend when an interviewer
+asks how it was measured. If you no longer know the baseline, and you often will not once you
+have left the job, write what you can still support rather than reaching for the figure that
+sounds better without it.
+
 ### Describe a change in kind when you have no number for it
 
 Not every achievement comes with a number attached, and you should not invent one to fill
@@ -214,6 +227,20 @@ Before you send any version of this resume, read it out loud once, start to fini
 is ordinary advice, but it catches a category of error that silent reading tends to miss,
 the awkward phrase, the repeated word, the sentence that no longer makes sense after
 three rounds of editing.
+
+### Check each line for the three errors a fast reader catches first
+
+Reading out loud catches how the document sounds. A second pass, taken line by line, catches
+three specific errors that survive it. The first is a line that has grown too long to take in
+at a glance, usually because two achievements got merged into one sentence somewhere in the
+editing, and the fix is to split it or cut the half that matters less. The second is a
+first-person pronoun that crept in, an "I" or a "my" sitting in a document where every other
+line opens with a verb, which happens most often to lines you drafted somewhere else and
+pasted in. The third is a verb tense that disagrees with the role's own dates, a
+present-tense line under a job you left years ago, or a past-tense line under the job you
+hold right now. None of these makes a line wrong on the facts. Each one makes a reader stop
+on the mechanics instead of on the work, which is attention you wanted spent on the
+achievement itself.
 
 ## Pacing the work
 
