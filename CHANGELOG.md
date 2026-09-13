@@ -3,6 +3,18 @@
 A record of what changed in this manual and why, newest first. This repository has no
 releases and no version numbers; entries are dated instead.
 
+## 2026-09-13
+
+### Added
+
+`kit/04-your-resume.md`: a subsection under "Format, naming, and proofreading" on the
+line-by-line pass that follows the out-loud read, covering a line grown too long to take in at
+a glance, a first-person pronoun that crept in from pasted material, and a verb tense that
+disagrees with the role's own dates. Built from a source item held in the ingested-sources
+digest since 2026-08-23 and never previously carried to the backlog. The source's framing of
+the check around how long a reader spends on a resume was dropped, since STYLE.md bars that
+figure outright; only the three checks themselves were built.
+
 ## 2026-09-10
 
 ### Added
