@@ -28,6 +28,19 @@ Pointers, not work. Detailed and running on the lane work board under the data r
   the 2026-09-09 hold on 2026-09-10, choosing `kit/07-applying.md`'s "Reaching a human alongside
   the application" section over a new networking chapter. Landed in `kit/07-applying.md`.
 
+## Candidates not yet scheduled
+
+Surfaced 2026-09-13 from `digest_studyingwithjake_chatgpt_autoapply.md` under the data root,
+which had never been mined for this repo. The fast-skim self-edit item from the same digest was
+built the same day and is recorded in `CHANGELOG.md`. This one was not.
+
+- Carrying a measurable result in a resume bullet, what was accomplished, how it was measured,
+  and what was done to get there. Not scheduled. The underlying advice is generic, but the
+  three-part structure is a named published formula, and STYLE.md bars restating a named
+  methodology either by name or by paraphrasing its structure. The digest carries the same
+  provenance warning. If it is ever built, it goes in as general advice about tying a result to
+  the way it was measured, with no three-part frame and no attribution to a formula.
+
 ## Already shipped, drop
 
 - "Apply at the company website, not LinkedIn": reviewed 2026-09-09. `kit/07-applying.md` already
