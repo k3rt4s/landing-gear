@@ -80,6 +80,19 @@ embellishment that falls apart under one follow-up question costs you more than 
 gap ever would. A visible gap in your history reads as ordinary. A claim you cannot back
 up in the room reads as dishonest, and it tends to color everything else you said.
 
+### Say what a number was measured against when you have one
+
+A figure standing on its own is not evidence, it is a quantity a reader has no way to place.
+"Cut processing time by a third" leaves out everything that would let someone judge it: how
+long the thing took before, over what stretch of time the change happened, and what you
+actually did to cause it. Write the number together with what it moved from and the work you
+did to move it, so a reader who has never seen the systems you worked on can tell whether this
+was a large result or a small one. Doing it this way also protects you in the room, because a
+claim that carries its own baseline is the version you can still defend when an interviewer
+asks how it was measured. If you no longer know the baseline, and you often will not once you
+have left the job, write what you can still support rather than reaching for the figure that
+sounds better without it.
+
 ### Describe a change in kind when you have no number for it
 
 Not every achievement comes with a number attached, and you should not invent one to fill
