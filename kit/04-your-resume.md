@@ -215,6 +215,20 @@ is ordinary advice, but it catches a category of error that silent reading tends
 the awkward phrase, the repeated word, the sentence that no longer makes sense after
 three rounds of editing.
 
+### Check each line for the three errors a fast reader catches first
+
+Reading out loud catches how the document sounds. A second pass, taken line by line, catches
+three specific errors that survive it. The first is a line that has grown too long to take in
+at a glance, usually because two achievements got merged into one sentence somewhere in the
+editing, and the fix is to split it or cut the half that matters less. The second is a
+first-person pronoun that crept in, an "I" or a "my" sitting in a document where every other
+line opens with a verb, which happens most often to lines you drafted somewhere else and
+pasted in. The third is a verb tense that disagrees with the role's own dates, a
+present-tense line under a job you left years ago, or a past-tense line under the job you
+hold right now. None of these makes a line wrong on the facts. Each one makes a reader stop
+on the mechanics instead of on the work, which is attention you wanted spent on the
+achievement itself.
+
 ## Pacing the work
 
 ### Update the master right after a win, not in the middle of a slump
