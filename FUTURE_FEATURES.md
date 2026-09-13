@@ -17,7 +17,7 @@ easily surface a second time.
   to say hello at the event). Closed 2026-09-10: security-industry-specific in a manual written
   for a general audience, and STYLE.md's own hygiene check already scrubs security-industry
   names on every commit. Source: Blanchard 49:30-51:50, digest_blanchard_job_hunting.md.
-- The four reels at `ingested_public_sources/instagram_reels_20260831` under the data root are
-  undigested and assigned to no lane. Closed 2026-09-13 as not this repo's material to claim.
-  Do not add them to this backlog. If they are ever digested, the lane assignment is the
-  developer's call and not an inference from the captions.
+- Four undigested short-video clips held alongside this manual's other source material were
+  considered on 2026-09-13 and closed as not this manual's to claim. Do not add them here. If
+  they are ever worked up, which manual or tool they belong to is the developer's call and not
+  something to infer from the captions.
