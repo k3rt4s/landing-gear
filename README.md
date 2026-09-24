@@ -64,7 +64,8 @@ that most people would give, the text says so rather than dressing it up as a sy
 
 ## Changes
 
-[CHANGELOG.md](CHANGELOG.md) records what has changed in the manual and when.
+[CHANGELOG.md](CHANGELOG.md) records what has changed in the manual and when. The active work board
+lives outside this public repo, at `C:\Code_data\landing-gear\WORK_BOARD.md`.
 
 ## Contributing
 
