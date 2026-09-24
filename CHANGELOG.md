@@ -3,6 +3,14 @@
 A record of what changed in this manual and why, newest first. This repository has no
 releases and no version numbers; entries are dated instead.
 
+## 2026-09-24
+
+### Changed
+
+README now names `C:\Code_data\landing-gear\WORK_BOARD.md` as the active work board location,
+per the workspace board-location layout rule (framework lane H5). This is a public repo, so the
+board itself stays out of it.
+
 ## 2026-09-13
 
 ### Added
