@@ -46,6 +46,28 @@ what applies where you are before you decide how to answer, rather than followin
 for every listing. Where a number is genuinely required, give a researched range instead of a
 single figure, and be ready to explain how you arrived at it if it comes up later.
 
+### Build your range from sources you can name
+
+Start with the posted range on the employer's own listing when one exists, and add the ranges
+posted on comparable listings for the same title and level at other employers. Some of those
+postings will carry a range because local rules require it, which the point above covers,
+and others will carry one voluntarily. Either way, collect several rather than stopping at the
+first number you see.
+
+Where you can reach someone who already holds the role you are pricing, ask them directly what
+a fair range looks like for it. A person doing the work right now, at a similar level, can tell
+you what a posting cannot, such as where in a posted range people actually land, and it is an
+input that is easy to skip because it takes more effort to reach. If you know no one in the role
+yet, the chapter on finding roles covers building those contacts, and a recruiter screen is a
+normal place to ask what range the employer has in mind.
+
+Weigh everything you gather against your own level and your own location rather than defaulting
+to the highest figure you found. Let both ends of the range come from what the postings and the
+people you spoke with actually support, not from a number that simply sounds better. The lowest
+figure you would accept is a separate number, and whether the range you give sits well above it
+or starts close to it is a judgment call people disagree on. Keep a written note of which postings
+and conversations each end rests on, since that note is the explanation you will need later.
+
 ### Correct the parsed version of your resume before you submit
 
 Many systems parse your uploaded resume into fields the recruiter will read directly, and
@@ -130,7 +152,9 @@ reason you are a fit for it. Keep it short enough to read comfortably on a phone
 
 A referral from someone already inside the company is the strongest version of this kind of
 outreach. Asking for one is a favor with a real cost to the person you ask, so reserve it for
-people who genuinely know your work, not a contact you are hoping will vouch for you cold.
+people who genuinely know your work, not a contact you are hoping will vouch for you cold. If
+you do not have anyone who fits that description yet, the chapter on finding roles covers
+building contacts before you need a referral.
 
 ### Don't decide the answer is no before you ask
 
