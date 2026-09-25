@@ -50,21 +50,23 @@ single figure, and be ready to explain how you arrived at it if it comes up late
 
 Start with the posted range on the employer's own listing when one exists, and add the ranges
 posted on comparable listings for the same title and level at other employers. Some of those
-postings will carry a range because a place requires it, which the point above already covers,
+postings will carry a range because local rules require it, which the point above covers,
 and others will carry one voluntarily. Either way, collect several rather than stopping at the
 first number you see.
 
 Where you can reach someone who already holds the role you are pricing, ask them directly what
 a fair range looks like for it. A person doing the work right now, at a similar level, can tell
-you what a posting cannot, such as where in a posted range people actually land, and it is the
-input most people skip only because it takes more effort to reach.
+you what a posting cannot, such as where in a posted range people actually land, and it is an
+input that is easy to skip because it takes more effort to reach. If you know no one in the role
+yet, the chapter on finding roles covers building those contacts, and a recruiter screen is a
+normal place to ask what range the employer has in mind.
 
 Weigh everything you gather against your own level and your own location rather than defaulting
-to the highest figure you found. Set your low end at what you would accept without resentment
-given what the role actually is, and your high end at what the postings and the people you
-spoke with actually support, not at a number that simply sounds better. Write down which
-postings and which conversations you built the range from, and why you set the low and high ends
-where you did, so you can explain that reasoning later if it comes up.
+to the highest figure you found. Let both ends of the range come from what the postings and the
+people you spoke with actually support, not from a number that simply sounds better. The lowest
+figure you would accept is a separate number, and whether the range you give sits well above it
+or starts close to it is a judgment call people disagree on. Keep a written note of which postings
+and conversations each end rests on, since that note is the explanation you will need later.
 
 ### Correct the parsed version of your resume before you submit
 
