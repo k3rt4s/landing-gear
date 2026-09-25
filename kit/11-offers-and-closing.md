@@ -12,7 +12,7 @@ every benefit calculation tied to salary, so treat it as the anchor even when a 
 number looks larger on the page. Compare it against what you actually need and against what the
 market pays for the role, not against your previous salary alone, since the previous number may
 itself have been low. The applying chapter's section on building your range from sources you can
-name covers how to arrive at that market figure in the first place.
+name covers how to arrive at that market range in the first place.
 
 ### A bonus is only worth what it has actually paid, not what it could pay
 
