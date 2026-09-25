@@ -84,6 +84,29 @@ A panel or technical stage goes deeper into specifics, usually with people who w
 future peers rather than your manager. Expect more detailed follow up questions and be ready to
 say what you do not know rather than guess in front of people who would notice a guess.
 
+### Skills tests, questionnaires, and take-home assignments show up between the main stages
+
+Between the stages above, many processes add something that is not a conversation. A skills
+test checks a specific ability directly, rather than asking you to describe it. A work style or
+personality questionnaire is trying to predict how you operate day to day and whether that fits
+the team. A take-home assignment usually stands in for a small piece of the actual job, asking
+you to produce something rather than talk about it.
+
+For a take-home, ask up front how long the employer expects it to take and how the result will
+be used, before you start. Scope your own effort to that stated expectation rather than guessing
+at what looks impressive. An assignment that quietly grows past the time you were told is a sign
+worth noticing on its own, separate from whatever you turn in.
+
+Answer a questionnaire honestly and the same way you would answer it on a different day, rather
+than trying to guess the profile the employer wants and shape your answers toward it. The same
+honesty that the section on honesty under questioning asks of you in a live conversation applies
+here, even though no one is watching you fill it out.
+
+If an unpaid assignment reads like real production work rather than a scoped exercise, that is
+worth weighing as information about the employer, not just as a task to complete. Notice it, keep
+it in mind alongside everything else you learn about how the place operates, and decide later
+what it tells you.
+
 ### A final stage is usually about level and fit, so ask what to expect beforehand
 
 By the final stage, a decision has often mostly been made, and the conversation is checking
@@ -132,7 +155,8 @@ here. When the conversation comes up, treat it as a real judgment call rather th
 
 Bring a range you can explain rather than a single number pulled from memory or hope. A range
 backed by research into what the role and level actually pay, with a reason behind it, is
-stronger than a figure with nothing behind it either way.
+stronger than a figure with nothing behind it either way. The applying chapter covers how to
+build that range from sources you can name.
 
 ### Answer the reason for leaving question once, plainly, the same way every time
 
