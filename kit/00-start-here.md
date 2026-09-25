@@ -54,8 +54,8 @@ forty minutes a night might spend a week on it. Both are on schedule.
 ### Work the chapters in sequence on your first pass through
 
 The chapters build on each other. The tracker chapter assumes you have not started
-applying yet. The resume chapter assumes you have not sent anything out. The applying
-and recruiters chapters assume your profile is already fixed. Skipping ahead means
+applying yet. The resume chapter assumes you have not sent anything out. The recruiters
+chapter assumes your profile is already fixed. Skipping ahead means
 doing later work on top of an unfinished foundation, then redoing it once you go back.
 Read this manual start to finish once, even the obvious parts, before treating it as a
 reference.
