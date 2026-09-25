@@ -7,9 +7,9 @@ releases and no version numbers; entries are dated instead.
 
 ### Changed
 
-README now names `C:\Code_data\landing-gear\WORK_BOARD.md` as the active work board location,
-per the workspace board-location layout rule (framework lane H5). This is a public repo, so the
-board itself stays out of it.
+README now says the active work board lives outside this public repo, per the workspace
+board-location layout rule (framework lane H5). This is a public repo, so the board itself stays
+out of it.
 
 ## 2026-09-13
 
