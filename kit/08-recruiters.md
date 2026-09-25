@@ -134,6 +134,8 @@ Whatever the local rules require or allow, a researched range with a reason behi
 the role, the market, and your own experience, serves you better than a single number pulled
 from nowhere. A single figure invites a negotiation anchored to that exact point. A range with
 reasoning gives you room and gives the recruiter something concrete to work with internally.
+The applying chapter's section on building a range you can explain covers how to put that
+range together in the first place.
 
 ## Following up without becoming a problem
 
