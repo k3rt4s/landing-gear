@@ -21,6 +21,47 @@ minutes, whatever fits your day, and when it ends, stop searching regardless of 
 that block, every listing you touch gets one decision: shortlist it, rule it out, or note it for
 later, made once, not reopened every time you pass it again in another tab.
 
+## Building contacts before you need a referral
+
+### Reconnect with people who already know your work, before you need anything
+
+The strongest contacts you have are people who already watched you do the work, a former
+manager, a former colleague, a client from a past role. Reach out to a few of them now, before
+your search has produced a specific ask, and keep the message about them, not about your job
+search. Ask how they are doing, mention something real you remember about working with them, and
+let the conversation go wherever it goes. The chapter on your profile covers the professional
+network profile itself, and reconnecting with people through it is a different action from
+filling it out.
+
+### Ask someone at a target employer a real question, not for a job
+
+If you find someone who works at an employer on your list and you have no existing relationship
+with them, the honest opening is a specific, low cost question, something about the team, the
+work, or what a role like the one you want actually involves day to day, not a request to be
+referred or hired. A message like that asks for a few minutes of their attention and nothing
+more, and most people will answer a specific question from a stranger far more readily than they
+will vouch for one. Keep the same short, phone readable, easy to answer shape covered elsewhere in
+this manual, one clear question, nothing attached.
+
+### Keep a contact alive with real conversation, not recurring asks
+
+A contact who only ever hears from you when you want something learns to expect that and starts
+answering less. Once you have reconnected with someone or had one good exchange with someone new,
+follow up occasionally with something that has nothing to do with your search, a genuine
+question about their work, a note on something relevant you noticed, a reply to something they
+posted. Fold this into the outreach block of the weekly schedule you already keep, rather than
+treating it as a separate obligation, and let most of these exchanges stay exactly what they look
+like, two people staying in touch.
+
+### Mention an opening only once the relationship can carry it
+
+It becomes fair to mention a specific role once you have an actual relationship with the person,
+built from more than one exchange, not from a single cold message sent yesterday. Even then, raise
+it lightly, as something you are looking at, and let them decide whether to engage with it rather
+than opening with a direct ask. A relationship built this way is also the kind that can honestly
+support a referral later, the kind the chapter on applying describes as coming from someone who
+genuinely knows your work, because by then they actually do.
+
 ## The three ways a search drifts
 
 ### Chasing an adjacent role because a recruiter raised it
