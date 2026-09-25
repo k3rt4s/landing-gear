@@ -40,8 +40,8 @@ with them, the honest opening is a specific, low cost question, something about 
 work, or what a role like the one you want actually involves day to day, not a request to be
 referred or hired. A message like that asks for a few minutes of their attention and nothing
 more, and most people will answer a specific question from a stranger far more readily than they
-will vouch for one. Keep the same short, phone readable, easy to answer shape covered elsewhere in
-this manual, one clear question, nothing attached.
+will vouch for one. Keep it to the same short, phone readable shape the applying chapter uses for
+reaching a human alongside an application, one clear question, nothing attached.
 
 ### Keep a contact alive with real conversation, not recurring asks
 
