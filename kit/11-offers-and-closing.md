@@ -11,7 +11,8 @@ Base pay is the figure that shows up on every future offer, every raise conversa
 every benefit calculation tied to salary, so treat it as the anchor even when a bonus or an equity
 number looks larger on the page. Compare it against what you actually need and against what the
 market pays for the role, not against your previous salary alone, since the previous number may
-itself have been low.
+itself have been low. The applying chapter's section on building a range you can explain covers
+how to arrive at that market figure in the first place.
 
 ### A bonus is only worth what it has actually paid, not what it could pay
 
