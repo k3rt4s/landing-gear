@@ -225,6 +225,23 @@ the role genuinely cannot function without, and some describe a wish list assemb
 the posting. Telling them apart is a real judgment call, and people disagree about where the line
 sits on any given listing.
 
+One useful test is whether the requirement shows up in the part of the posting that describes the
+actual work, not only in the list of qualifications. A requirement the duties section depends on,
+the system the role runs on every day, the step the work cannot proceed without, is doing real work
+in the posting. A line that appears only in the requirements block, with nothing in the description
+of the job itself that depends on it, is more likely carried over from an older posting or a
+template than genuinely needed for this role.
+
+A credential deserves the same kind of look. Some are required by law or by the nature of the work
+itself, a license the work cannot proceed without, a certification a regulator will not let the
+work be billed without, and those hold regardless of anything else on the page. Others are listed
+because an earlier posting called for them and nobody checked whether this one still needs them.
+
+Repetition is a third marker, and a simpler one to read. A requirement the posting mentions once,
+in passing, reads differently from one it returns to more than once, in the summary, the duties,
+and the qualifications alike. A posting that keeps circling back to the same point is telling you
+it matters to whoever wrote it, even if that posting never says so directly.
+
 ### Treat this as a judgment call, and pace verification to the time you have
 
 Applying only where you match every requirement and applying to everything regardless of fit are
