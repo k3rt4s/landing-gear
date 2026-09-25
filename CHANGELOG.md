@@ -3,6 +3,43 @@
 A record of what changed in this manual and why, newest first. This repository has no
 releases and no version numbers; entries are dated instead.
 
+## 2026-09-25
+
+### Added
+
+`kit/07-applying.md`: a subsection, "Build your range from sources you can name", placed right
+after the salary expectation subsection. The manual told the reader to bring a researched range
+in four places and never said where one comes from. The new text builds the range from the
+employer's posted range, comparable postings at the same title and level, and people already in
+the role. It adds routes for a reader who knows no one in the role yet, rests both ends of the
+range on those sources, and treats the lowest acceptable figure as a separate judgment call.
+Short pointers to it were added in `kit/08-recruiters.md`, `kit/10-interviewing.md` and
+`kit/11-offers-and-closing.md`.
+
+`kit/06-finding-roles.md`: a section, "Building contacts before you need a referral". The
+applying chapter tells the reader to ask for a referral only from someone who knows their work,
+and nothing covered how to build those contacts. It covers reconnecting with people who already
+know your work, asking someone at a target employer a real question rather than for a job,
+keeping a contact alive without recurring asks, and when it becomes fair to mention an opening.
+The applying chapter's referral subsection now points to it.
+
+`kit/06-finding-roles.md`: a subsection, "Check the duties, the credentials, and the repetition
+to tell which is which", with concrete markers for telling a genuine requirement from a wish
+list item. The subsection above it called this a judgment call and gave nothing to weigh.
+
+`kit/10-interviewing.md`: a subsection in the stages section on skills tests, work style
+questionnaires, and take-home assignments. It covers what each is for, asking up front how long
+a take-home should take and how it will be used, answering a questionnaire honestly, and what an
+unpaid assignment that looks like production work tells you.
+
+### Changed
+
+`kit/00-start-here.md` referred twice to an "outreach chapter" that does not exist. Both
+references now name real chapters. The chapter 06 description in its own intro and in the
+README table of contents now includes building contacts.
+
+README.md and this changelog no longer publish the local path of the work board.
+
 ## 2026-09-24
 
 ### Changed
