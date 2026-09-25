@@ -66,8 +66,7 @@ Once you have been through it once, you do not need to reread the whole thing ev
 week. Go straight to whichever chapter matches whatever is stuck, the interview
 chapter before a screen, the finding roles and recruiters chapters when your pipeline
 is thin, the schedule section in this chapter when you have fallen off your own plan.
-The order matters
-once. After that, use it like a manual, not like a novel.
+The order matters once. After that, use it like a manual, not like a novel.
 
 ## Do not apply to anything in your first week
 
