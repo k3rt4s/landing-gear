@@ -84,7 +84,7 @@ A panel or technical stage goes deeper into specifics, usually with people who w
 future peers rather than your manager. Expect more detailed follow up questions and be ready to
 say what you do not know rather than guess in front of people who would notice a guess.
 
-### Skills tests, questionnaires, and take-home assignments show up between the main stages
+### Ask how long a test or take-home should take and how it will be used before you start
 
 Between the stages above, many processes add something that is not a conversation. A skills
 test checks a specific ability directly, rather than asking you to describe it. A work style or
@@ -103,10 +103,10 @@ honesty section earlier in this chapter applies here just as it does in a live c
 though no one is watching you fill it out.
 
 If an unpaid assignment reads like real production work rather than a scoped exercise, treat that
-as information about the employer, not just as a task to complete. You can ask how the work will
-be used, offer a smaller version that shows the same skill, or decline and say why. Whichever you
-choose, weigh what the request told you about how the place treats people's time alongside
-everything else you learn about it.
+as information about the employer, not just as a task to complete. If the answer you got about
+how it will be used does not settle that, you can offer a smaller version that shows the same
+skill, or decline and say why. Whichever you choose, weigh what the request told you about how the
+place treats people's time alongside everything else you learn about it.
 
 ### A final stage is usually about level and fit, so ask what to expect beforehand
 
