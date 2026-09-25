@@ -55,9 +55,9 @@ and others will carry one voluntarily. Either way, collect several rather than s
 first number you see.
 
 Where you can reach someone who already holds the role you are pricing, ask them directly what
-a fair range looks like for it. A direct answer from a person doing the work right now, at a
-similar level, is worth more than any number you find in a posting alone, and it is the input
-most people skip only because it takes more effort to reach.
+a fair range looks like for it. A person doing the work right now, at a similar level, can tell
+you what a posting cannot, such as where in a posted range people actually land, and it is the
+input most people skip only because it takes more effort to reach.
 
 Weigh everything you gather against your own level and your own location rather than defaulting
 to the highest figure you found. Set your low end at what you would accept without resentment
