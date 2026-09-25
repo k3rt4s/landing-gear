@@ -98,14 +98,15 @@ at what looks impressive. An assignment that quietly grows past the time you wer
 worth noticing on its own, separate from whatever you turn in.
 
 Answer a questionnaire honestly and the same way you would answer it on a different day, rather
-than trying to guess the profile the employer wants and shape your answers toward it. The same
-honesty that the section on honesty under questioning asks of you in a live conversation applies
-here, even though no one is watching you fill it out.
+than trying to guess the profile the employer wants and shape your answers toward it. The
+honesty section earlier in this chapter applies here just as it does in a live conversation, even
+though no one is watching you fill it out.
 
-If an unpaid assignment reads like real production work rather than a scoped exercise, that is
-worth weighing as information about the employer, not just as a task to complete. Notice it, keep
-it in mind alongside everything else you learn about how the place operates, and decide later
-what it tells you.
+If an unpaid assignment reads like real production work rather than a scoped exercise, treat that
+as information about the employer, not just as a task to complete. You can ask how the work will
+be used, offer a smaller version that shows the same skill, or decline and say why. Whichever you
+choose, weigh what the request told you about how the place treats people's time alongside
+everything else you learn about it.
 
 ### A final stage is usually about level and fit, so ask what to expect beforehand
 
