@@ -1,7 +1,7 @@
 # Finding roles
 
-This chapter covers running a search that does not drift, and checking whether a listing is real
-before you spend an hour on it.
+This chapter covers running a search that does not drift, building contacts before you need a
+referral, and checking whether a listing is real before you spend an hour on it.
 
 ## Running the search from your target titles
 
@@ -39,9 +39,9 @@ If you find someone who works at an employer on your list and you have no existi
 with them, the honest opening is a specific, low cost question, something about the team, the
 work, or what a role like the one you want actually involves day to day, not a request to be
 referred or hired. A message like that asks for a few minutes of their attention and nothing
-more, and most people will answer a specific question from a stranger far more readily than they
-will vouch for one. Keep it to the same short, phone readable shape the applying chapter uses for
-reaching a human alongside an application, one clear question, nothing attached.
+more, and a specific question is far easier for a stranger to say yes to than a request to vouch
+for you. This is ordinary advice, not a technique. Keep it to the short, easy to answer shape the
+recruiters chapter describes for a cold message, one clear question, nothing attached.
 
 ### Keep a contact alive with real conversation, not recurring asks
 
@@ -206,8 +206,7 @@ record the employer's own application link rather than the aggregator's link tha
 to you. Job titles get edited, and a reposted role with a new title looks like a brand new lead if
 title is what you match on, so match instead on something stable, the employer's own requisition
 number or job identifier where one exists. The chapter on tracking your search covers the fields
-in full, but the
-habit belongs here, at the moment the decision is made.
+in full, but the habit belongs here, at the moment the decision is made.
 
 ### Mark a role removed rather than deleting it, and write down what you did not find
 
@@ -225,17 +224,18 @@ the role genuinely cannot function without, and some describe a wish list assemb
 the posting. Telling them apart is a real judgment call, and people disagree about where the line
 sits on any given listing.
 
+### Check the duties, the credentials, and the repetition to tell which is which
+
 One useful test is whether the requirement shows up in the part of the posting that describes the
 actual work, not only in the list of qualifications. A requirement the duties section depends on,
 the system the role runs on every day, the step the work cannot proceed without, is doing real work
 in the posting. A line that appears only in the requirements block, with nothing in the description
 of the job itself that depends on it, is more likely carried over from an older posting or a
-template than genuinely needed for this role.
-
-A credential deserves the same kind of look. Some are required by law or by the nature of the work
-itself, a license the work cannot proceed without, a certification a regulator will not let the
-work be billed without, and those hold regardless of anything else on the page. Others are listed
-because an earlier posting called for them and nobody checked whether this one still needs them.
+template than genuinely needed for this role. A credential deserves the same look. Some are
+required by law or by the nature of the work itself, a license the work cannot proceed without,
+and those hold regardless of anything else on the page. Others may simply have been carried over
+from an earlier posting, and the duties test is usually how you tell: if nothing in the described
+work needs the credential, treat it as a preference rather than a gate.
 
 Repetition is a third marker, and a simpler one to read. A requirement the posting mentions once,
 in passing, reads differently from one it returns to more than once, in the summary, the duties,
