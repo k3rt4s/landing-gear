@@ -54,18 +54,19 @@ forty minutes a night might spend a week on it. Both are on schedule.
 ### Work the chapters in sequence on your first pass through
 
 The chapters build on each other. The tracker chapter assumes you have not started
-applying yet. The resume chapter assumes you have not sent anything out. The outreach
-chapter assumes your profile is already fixed. Skipping ahead means doing later work
-on top of an unfinished foundation, then redoing it once you go back. Read this manual
-start to finish once, even the obvious parts, before treating it as a reference.
+applying yet. The resume chapter assumes you have not sent anything out. The recruiters
+chapter assumes your profile is already fixed. Skipping ahead means
+doing later work on top of an unfinished foundation, then redoing it once you go back.
+Read this manual start to finish once, even the obvious parts, before treating it as a
+reference.
 
 ### After the first pass, treat the manual as a reference to jump around in
 
 Once you have been through it once, you do not need to reread the whole thing every
 week. Go straight to whichever chapter matches whatever is stuck, the interview
-chapter before a screen, the outreach chapter when your pipeline is thin, the schedule
-section in this chapter when you have fallen off your own plan. The order matters
-once. After that, use it like a manual, not like a novel.
+chapter before a screen, the finding roles and recruiters chapters when your pipeline
+is thin, the schedule section in this chapter when you have fallen off your own plan.
+The order matters once. After that, use it like a manual, not like a novel.
 
 ## Do not apply to anything in your first week
 

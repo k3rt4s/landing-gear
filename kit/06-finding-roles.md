@@ -1,7 +1,7 @@
 # Finding roles
 
-This chapter covers running a search that does not drift, and checking whether a listing is real
-before you spend an hour on it.
+This chapter covers running a search that does not drift, building contacts before you need a
+referral, and checking whether a listing is real before you spend an hour on it.
 
 ## Running the search from your target titles
 
@@ -20,6 +20,47 @@ session with no shortlist at the end of it produced nothing. Set a fixed block, 
 minutes, whatever fits your day, and when it ends, stop searching regardless of how it went. Inside
 that block, every listing you touch gets one decision: shortlist it, rule it out, or note it for
 later, made once, not reopened every time you pass it again in another tab.
+
+## Building contacts before you need a referral
+
+### Reconnect with people who already know your work, before you need anything
+
+The strongest contacts you have are people who already watched you do the work, a former
+manager, a former colleague, a client from a past role. Reach out to a few of them now, before
+your search has produced a specific ask, and keep the message about them, not about your job
+search. Ask how they are doing, mention something real you remember about working with them, and
+let the conversation go wherever it goes. The chapter on your profile covers the professional
+network profile itself, and reconnecting with people through it is a different action from
+filling it out.
+
+### Ask someone at a target employer a real question, not for a job
+
+If you find someone who works at an employer on your list and you have no existing relationship
+with them, the honest opening is a specific, low cost question, something about the team, the
+work, or what a role like the one you want actually involves day to day, not a request to be
+referred or hired. A message like that asks for a few minutes of their attention and nothing
+more, and a specific question is far easier for a stranger to say yes to than a request to vouch
+for you. This is ordinary advice, not a technique. Keep it to the short, easy to answer shape the
+recruiters chapter describes for a cold message, one clear question, nothing attached.
+
+### Keep a contact alive with real conversation, not recurring asks
+
+A contact who only ever hears from you when you want something learns to expect that and starts
+answering less. Once you have reconnected with someone or had one good exchange with someone new,
+follow up occasionally with something that has nothing to do with your search, a genuine
+question about their work, a note on something relevant you noticed, a reply to something they
+posted. Fold this into the outreach block of the weekly schedule you already keep, rather than
+treating it as a separate obligation, and let most of these exchanges stay exactly what they look
+like, two people staying in touch.
+
+### Mention an opening only once the relationship can carry it
+
+It becomes fair to mention a specific role once you have an actual relationship with the person,
+built from more than one exchange, not from a single cold message sent yesterday. Even then, raise
+it lightly, as something you are looking at, and let them decide whether to engage with it rather
+than opening with a direct ask. A relationship built this way is also the kind that can honestly
+support a referral later, the kind the chapter on applying describes as coming from someone who
+genuinely knows your work, because by then they actually do.
 
 ## The three ways a search drifts
 
@@ -165,8 +206,7 @@ record the employer's own application link rather than the aggregator's link tha
 to you. Job titles get edited, and a reposted role with a new title looks like a brand new lead if
 title is what you match on, so match instead on something stable, the employer's own requisition
 number or job identifier where one exists. The chapter on tracking your search covers the fields
-in full, but the
-habit belongs here, at the moment the decision is made.
+in full, but the habit belongs here, at the moment the decision is made.
 
 ### Mark a role removed rather than deleting it, and write down what you did not find
 
@@ -183,6 +223,24 @@ Read the requirements honestly once a listing has passed the checks above. Some 
 the role genuinely cannot function without, and some describe a wish list assembled by whoever wrote
 the posting. Telling them apart is a real judgment call, and people disagree about where the line
 sits on any given listing.
+
+### Check the duties, the credentials, and the repetition to tell which is which
+
+One useful test is whether the requirement shows up in the part of the posting that describes the
+actual work, not only in the list of qualifications. A requirement the duties section depends on,
+the system the role runs on every day, the step the work cannot proceed without, is doing real work
+in the posting. A line that appears only in the requirements block, with nothing in the description
+of the job itself that depends on it, is more likely carried over from an older posting or a
+template than genuinely needed for this role. A credential deserves the same look. Some are
+required by law or by the nature of the work itself, a license the work cannot proceed without,
+and those hold regardless of anything else on the page. Others may simply have been carried over
+from an earlier posting, and the duties test is usually how you tell: if nothing in the described
+work needs the credential, treat it as a preference rather than a gate.
+
+Repetition is a third marker, and a simpler one to read. A requirement the posting mentions once,
+in passing, reads differently from one it returns to more than once, in the summary, the duties,
+and the qualifications alike. A posting that keeps circling back to the same point is telling you
+it matters to whoever wrote it, even if that posting never says so directly.
 
 ### Treat this as a judgment call, and pace verification to the time you have
 

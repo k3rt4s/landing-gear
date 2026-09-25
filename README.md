@@ -30,8 +30,9 @@ currently going wrong.
 6. [Keywords and applicant tracking systems](kit/05-keywords-and-ats.md), what those systems really
    do, how to read a posting for the language it is searched against, and how to align your
    materials without lying.
-7. [Finding roles](kit/06-finding-roles.md), running a search that does not drift, and checking
-   whether a listing is real before you spend an hour on it.
+7. [Finding roles](kit/06-finding-roles.md), running a search that does not drift, building
+   contacts before you need a referral, and checking whether a listing is real before you spend an
+   hour on it.
 8. [Applying](kit/07-applying.md), what to send, when a cover letter earns its keep, and how to
    reach a human alongside the formal application.
 9. [Recruiters](kit/08-recruiters.md), the difference between an agency recruiter and an internal
