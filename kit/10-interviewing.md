@@ -97,10 +97,14 @@ be used, before you start. Scope your own effort to that stated expectation rath
 at what looks impressive. An assignment that quietly grows past the time you were told is a sign
 worth noticing on its own, separate from whatever you turn in.
 
+### Answer a questionnaire the way you would answer it on any other day
+
 Answer a questionnaire honestly and the same way you would answer it on a different day, rather
 than trying to guess the profile the employer wants and shape your answers toward it. The
 honesty section earlier in this chapter applies here just as it does in a live conversation, even
 though no one is watching you fill it out.
+
+### Treat an unpaid assignment that reads like production work as information about the employer
 
 If an unpaid assignment reads like real production work rather than a scoped exercise, treat that
 as information about the employer, not just as a task to complete. If the answer you got about

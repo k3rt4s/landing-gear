@@ -61,6 +61,8 @@ input that is easy to skip because it takes more effort to reach. If you know no
 yet, the chapter on finding roles covers building those contacts, and a recruiter screen is a
 normal place to ask what range the employer has in mind.
 
+### Weigh what you gathered against your own level, and note which source each end rests on
+
 Weigh everything you gather against your own level and your own location rather than defaulting
 to the highest figure you found. Let both ends of the range come from what the postings and the
 people you spoke with actually support, not from a number that simply sounds better. The lowest
