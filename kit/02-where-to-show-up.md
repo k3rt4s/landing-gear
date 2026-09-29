@@ -182,8 +182,8 @@ sake.
 Too many alerts stop being signal and start being noise you learn to ignore, which defeats
 the purpose of setting them. A small number of well targeted alerts, tied to employers and
 sectors you actually care about, will serve you better than a long list you stop reading.
-The chapter on finding roles comes back to how to work through alerts day to day without
-letting them drift into a second job of their own.
+The chapter on finding roles covers timeboxing the search itself, which is what keeps working
+through whatever your alerts turn up from drifting into a second job of its own.
 
 ### Set this up in one sitting only if you plan to wait before judging it
 
