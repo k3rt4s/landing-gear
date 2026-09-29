@@ -3,6 +3,31 @@
 A record of what changed in this manual and why, newest first. This repository has no
 releases and no version numbers; entries are dated instead.
 
+## 2026-09-29
+
+### Fixed
+
+`.gitignore` named the absolute path of the work board on the author's machine in a comment.
+That string matches the identifying-information grep in `STYLE.md`, which is required to return
+zero hits before every commit, so the repository's own hygiene check failed on a clean tree. The
+comment now says only that the board is kept outside the repository.
+
+`kit/07-applying.md`: "Build your range from sources you can name" carried three prose
+paragraphs under one `###` heading, and `kit/10-interviewing.md`: "Ask how long a test or
+take-home should take and how it will be used before you start" carried four. `STYLE.md` allows
+one or two. Both were added in the 2026-09-24 cycle. The overflow paragraphs now sit under their
+own headings, each stating the instruction the reader should act on. No prose was changed.
+
+`kit/02-where-to-show-up.md` told the reader that the finding roles chapter comes back to working
+through alerts day to day. That chapter does not mention alerts anywhere. The pointer now names
+what that chapter actually covers, timeboxing the search and shortlist so the session ends.
+
+### Changed
+
+The pointers into the ch07 range material from `kit/08-recruiters.md` and
+`kit/11-offers-and-closing.md` named one section. That material is now two sections, gathering
+the sources and weighing them against your own level, so both pointers name both.
+
 ## 2026-09-25
 
 ### Added
